@@ -23,7 +23,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("RiZoeL Bot Spam Successfully deployed -!")
-print("Enjoy! Do visit @RiZoeLX")
+print("Enjoy! Do visit @TheFriendGroup")
 
 if __name__ == "__main__":
     Riz.run_until_disconnected()
